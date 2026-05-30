@@ -128,7 +128,6 @@ export default function LandingPage() {
           mediaAnimation="slide-up"
           imagePosition="right"
           fixedMediaHeight={true}
-          useInvertedBackground={false}
         />
       </div>
 
@@ -273,7 +272,6 @@ export default function LandingPage() {
             { icon: Instagram, href: "https://instagram.com", ariaLabel: "Instagram link" },
             { icon: Twitter, href: "https://twitter.com", ariaLabel: "Twitter link" }
           ]}
-          useInvertedBackground={true}
         />
       </div>
     </ThemeProvider>

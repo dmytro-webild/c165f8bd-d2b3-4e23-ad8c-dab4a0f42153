@@ -97,7 +97,7 @@ export default function LandingPage() {
     >
       <div id="nav" data-section="nav">
         <NavbarStyleCentered
-          brandName="متجر ملابس"
+          brandName="dream store ! "
           navItems={[
             { name: "الرئيسية", id: "#hero" },
             { name: "عنا", id: "#about" },
@@ -162,7 +162,7 @@ export default function LandingPage() {
       <div id="products" data-section="products">
         <ProductCardTwo
           products={[
-            { id: "1", brand: "Fashionista", name: "فستان سهرة أحمر", price: "350 ريال", rating: 5, reviewCount: "120", imageSrc: resolveAsset("product-1"), imageAlt: resolveAlt("product-1", "elegant formal dress red") },
+            { id: "1", brand: "Fashionista", name: "فستان سهرة أحمر", price: "4900د.ج", rating: 5, reviewCount: "120", imageSrc: resolveAsset("product-1"), imageAlt: resolveAlt("product-1", "elegant formal dress red") },
             { id: "2", brand: "Gentleman's Choice", name: "بدلة كلاسيكية زرقاء", price: "580 ريال", rating: 4, reviewCount: "85", imageSrc: resolveAsset("product-2"), imageAlt: resolveAlt("product-2", "stylish mens suit blue") },
             { id: "3", brand: "Summer Breeze", name: "فستان صيفي مزهر", price: "180 ريال", rating: 5, reviewCount: "150", imageSrc: resolveAsset("product-3"), imageAlt: resolveAlt("product-3", "casual summer dress floral pattern") },
             { id: "4", brand: "Urban Style", name: "جينز رجالي عصري", price: "160 ريال", rating: 4, reviewCount: "90", imageSrc: resolveAsset("product-4"), imageAlt: resolveAlt("product-4", "trendy jeans men fashion streetwear") },

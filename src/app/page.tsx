@@ -269,7 +269,7 @@ export default function LandingPage() {
           copyrightText="© 2024 متجر ملابس. جميع الحقوق محفوظة."
           socialLinks={[
             { icon: Facebook, href: "https://facebook.com", ariaLabel: "Facebook link" },
-            { icon: Instagram, href: "https://instagram.com", ariaLabel: "Instagram link" },
+            { icon: Instagram, href: "https://www.instagram.com/crevox.designe/#", ariaLabel: "Instagram link" },
             { icon: Twitter, href: "https://twitter.com", ariaLabel: "Twitter link" }
           ]}
         />
